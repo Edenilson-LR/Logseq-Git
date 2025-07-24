@@ -1,0 +1,33 @@
+## Notes
+	- #### Low-effort production for a distracted world
+		- #literaturenote nowadays the use of computer bits and distracts our mind this make that constantly we needed to choose to pay attention to one thing to another one, because of this it is difficult to process a project because we are looking to chunking it in dopamine hits.
+		- When you have a digital Zettelkasten, there’s a third option: do small things with small notes, straight from your phone.
+	- #### Caveats about this book
+		- #literaturenote I titled this book Digital Zettelkasten: Principles, Methods, & Examples because I’m going to talk mostly about using the Zettelkasten method with digital tools, and I’m going to talk about specific software as little as possible. Instead, I’ll talk on a higher level about the principles and methods to think about as you design your digital Zettelkasten, and decide on what software features you need.
+	- #### What is a [[zettelkasten]]
+		- #literaturenote Zettelkasten is German for "slip box" (Plural: Zettelkästen). In analog form, a Zettelkasten is literally a box filled with slips of paper, each slip with a note on it, as well as metadata used to organize those notes. The Zettelkasten method is a way of organizing paper in a non-hierarchical way. Instead of being restricted to keeping a note only under one category, or having to make multiple copies of the same note to put in various places, notes are organized so that you can arrive at one individual note through various routes, and that note can lead you to various other notes – much like today's internet, but in paper form.
+			- #permanentnote Basically the [[zettelkasten]] is a method to create and organize information using references to each piece of information, in this case with digital tools we can say that the app like logseq is the box where the information is saved and connected.
+	- #### What is a Zettelkasten for?
+		- #literaturenote the [[zettelkasten]] system works to help you to organize your ideas, start a new project because if you already have ideas or notes you can start from it, the method can help you to decide what read next and develop your ideas
+		- also help you to connect and organize the information that you save in the box or the tool that you are using
+	- ### Misconceptions corrected
+		- #literaturenote there is not point in just copy and paste the information that you read, it is useless if the effort is just copy word for word, the note take not necessary means that going to be boring because if your write the things that you read using your own words will be better that if you just write word from word, this create new connections and help your brain to create new connections with the information.
+	- ### Digital or paper?
+		- #literaturenote it going to depend of the kind of user that you are, for example: digital tools are more practical for transporting and editing note, at the same time it is easer to edit the references, by other hand the paper is nowadays less convenience for mobility is hard to keep but it is better for remembering and store your ideas, some studies shown that the write by hand can help you to remember the information.
+	- ### Which app use it
+		- #literaturenote to choose a note taking app it is important that the app support a general writing format, the plain text is the better format, however the  [[Mark Down]] format now it is used for a variety of apps that support this view, this format provide or allow the user to create wikylinks.
+	- ### Anatomy of [[zettelkasten]]
+		- #literaturenote [[zettelkasten]] system is organized in three steps, fleeting notes, literature notes and permanent notes, this process is follow to organize your ideas, fleeting notes are thoughts or fly ideas, while the literature note is your own explanation of a topic or resource that you have read, use your own words to process it, and the permanent note is the final step and with this you connect your ideas and process them. making connections between notes.
+	- ### A note about re-writing vs. copying/pasting notes
+		- > resist the urge to copy and paste. Even when you're recording an exact quote, take the extra effort to re-write it #literaturenote
+		- #literaturenote to process and take notes correctly is not just to think in paste and copy the information, it would be better if you re-write the information because at this point it is known that when a story is teller and teller only the most clear and important information survives.
+	- ### What is worth to write?
+		- #literaturenote It is important to identify during the process of learning new things to identify what information can be necessary for you to remember later or at least take a note for the information or the idea.
+	- > Marshall McLuhan said, "The medium is the message. p. 38
+	- ## How to read
+		- #literaturenote the format of the resource it is important to know how to manage and process the information that you read for example if you are reading digital will be more eassy to process the highlights using apps to export them, and if you are using a paper book will be more difficult, so in this case the medium will be important to manage and process the informaition.
+		- > Only worry about the information you most want to learn or that you can foresee wanting to use in the future. [[David Kadavy]] p.42
+		- #literaturenote a permanent note is the final step of processing the information, there not point in try to process unnecessary information, is important to highlight and process later because you need to identify what is important for your project.
+	- ## How to name your files
+		- #literaturenote there are many way to name your file, it can be named by topics, or unique  ID's numbers or a hierarchy name system, but in this case with the digital [[zettelkasten]] and using the apps is not necessary a hierarchy system because the app create the link between the notes and if for any reason you change the name file it can be update automatically.
+		-
